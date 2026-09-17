@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+*.dll
+*.pdb
+*.lib
+*.exp
+*.obj
+.vs/
